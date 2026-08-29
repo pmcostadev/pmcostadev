@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://pmcosta.dev/__l5e/assets-v1/003870b1-8d0a-4389-9ef8-04c67458d678/pedro-portrait.png" alt="Pedro Matos Costa" width="180">
+</p>
+
 <h1 align="center">WEB PRODUCTS THAT WIN CUSTOMERS</h1>
 
 <p align="center">
@@ -43,18 +47,36 @@ in hours, launches in days.
 
 ### `02 —` SERVICES
 
-**[UI/UX Design](https://pmcosta.dev/services/design)** — Clickable, high-fidelity mockups
-and modern interfaces you can review and approve before a single line of code is written.
-
-**[Web Development](https://pmcosta.dev/services/development)** — Websites, online stores,
-and web apps built fast with clean code and a structure designed to turn visitors into customers.
-
-**[GTM & Automations](https://pmcosta.dev/services/optimization)** — Automations that remove
-repetitive manual work, plus search optimization so the right customers find you on their own.
-
-**[Web3 & Blockchain](https://pmcosta.dev/services/blockchain)** — Decentralized apps and
-smart contracts built with a clear, trustworthy interface non-technical users can navigate
-with confidence.
+<table>
+<tr>
+<td width="50%">
+  <a href="https://pmcosta.dev/services/design"><img src="https://pmcosta.dev/__l5e/assets-v1/5d720c48-98d7-49ea-ab85-52cef43de1bf/prototyping.jpg" alt="UI/UX Design"></a>
+  <br><br>
+  <strong><a href="https://pmcosta.dev/services/design">UI/UX DESIGN</a></strong><br>
+  Clickable, high-fidelity mockups and modern interfaces you can review and approve before a single line of code is written.
+</td>
+<td width="50%">
+  <a href="https://pmcosta.dev/services/development"><img src="https://pmcosta.dev/__l5e/assets-v1/94726895-049a-45a4-91c0-03c2dbe7337e/web-app-v3.jpg" alt="Web Development"></a>
+  <br><br>
+  <strong><a href="https://pmcosta.dev/services/development">WEB DEVELOPMENT</a></strong><br>
+  Websites, online stores, and web apps built fast with clean code and a structure designed to turn visitors into customers.
+</td>
+</tr>
+<tr>
+<td width="50%">
+  <a href="https://pmcosta.dev/services/optimization"><img src="https://pmcosta.dev/__l5e/assets-v1/cd2c5718-3aea-4def-9cd6-e7f15de1ca8c/crm-automation.jpg" alt="GTM and Automations"></a>
+  <br><br>
+  <strong><a href="https://pmcosta.dev/services/optimization">GTM & AUTOMATIONS</a></strong><br>
+  Automations that remove repetitive manual work, plus search optimization so the right customers find you on their own.
+</td>
+<td width="50%">
+  <a href="https://pmcosta.dev/services/blockchain"><img src="https://pmcosta.dev/__l5e/assets-v1/a340153f-f703-42ba-ac30-763ef0f07f38/blockchain-v4.jpg" alt="Web3 and Blockchain"></a>
+  <br><br>
+  <strong><a href="https://pmcosta.dev/services/blockchain">WEB3 & BLOCKCHAIN</a></strong><br>
+  Decentralized apps and smart contracts built with a clear, trustworthy interface non-technical users can navigate with confidence.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -86,26 +108,43 @@ plus full handover or an ongoing partnership.
 
 ### `05 —` FEATURED WORK
 
-**Founder Spells** · SaaS — SEO, reputation and web authority automation for indie
-founders, no growth team needed.
+<table>
+<tr>
+<td width="33%">
+  <img src="https://pmcosta.dev/__l5e/assets-v1/e0785dde-0581-4ee3-b31e-375074e0dec0/founder-spells-1.png" alt="Founder Spells">
+  <br><br>
+  <code>SAAS · ACTIVE</code><br>
+  <strong>FOUNDER SPELLS</strong><br>
+  SEO, reputation and web authority automation for indie founders, no growth team needed.
+</td>
+<td width="33%">
+  <img src="https://pmcosta.dev/__l5e/assets-v1/361600b5-9027-4a06-a5a4-1e64a024e89f/cryptohub-1.png" alt="CryptoHub">
+  <br><br>
+  <code>BLOCKCHAIN · ACTIVE</code><br>
+  <strong>CRYPTOHUB</strong><br>
+  A wallet-native launchpad for vetted token sales across EVM, Solana and TON.
+</td>
+<td width="33%">
+  <img src="https://pmcosta.dev/__l5e/assets-v1/890e421f-9e85-40b5-a6b8-65205fea6cb6/vibeshops-1.png" alt="VibeShops">
+  <br><br>
+  <code>EDUCATION · ACTIVE</code><br>
+  <strong>VIBESHOPS</strong><br>
+  Hands-on workshops in Portugal teaching teams to build real apps with AI.
+</td>
+</tr>
+</table>
 
-**CryptoHub** · Blockchain — A wallet-native launchpad for vetted token sales across EVM,
-Solana and TON.
-
-**VibeShops** · Education — Hands-on workshops in Portugal teaching teams to build real
-apps with AI.
-
-[See all projects →](https://pmcosta.dev/projects)
+<p align="center"><a href="https://pmcosta.dev/projects">See all projects →</a></p>
 
 ---
 
 ### `06 —` WHO I WORK WITH
 
-Startups and tech, e-commerce brands, local businesses and tourism. Plus ongoing work in
-AI automation and blockchain.
+E-commerce brands, early-stage startups, local and tourism businesses, and SMBs that want
+to grow without bolting on five disconnected agencies.
 
-Each one follows the same three stages: pick the right tools, build the thing, then set up
-the pipelines that bring in customers without manual work.
+Each one follows the same three stages: pick the right stack, build the thing, then set up
+the tracking and automation that turn it into recurring revenue.
 
 ---
 
@@ -114,4 +153,4 @@ the pipelines that bring in customers without manual work.
 Tell me about your operational bottleneck, your product idea, or your upcoming launch.
 Let's skip the discovery phase and figure out if we can deliver a solution by next week.
 
-**[Start a conversation](https://pmcosta.dev/contact)**
+**[Start a conversation](https://pmcosta.dev/contact)** &nbsp;·&nbsp; Typically replies within 24 hours
