@@ -1,51 +1,67 @@
-<h1 align="center">Pedro Matos Costa</h1>
+<h1 align="center">PEDRO MATOS COSTA</h1>
 
 <p align="center">
-  <strong>I take products from empty repo to live URL in days, not quarters.</strong>
+  <a href="https://pmcosta.dev"><img src="https://img.shields.io/badge/PMCOSTA.DEV-121011?style=flat-square&labelColor=FF8000&color=FF8000" alt="pmcosta.dev"></a>
 </p>
 
 <p align="center">
-  <a href="https://pmcosta.dev">pmcosta.dev</a> ·
-  <a href="https://github.com/cryptohub-agency">@cryptohub-agency</a> ·
-  Portugal 🇵🇹
+  <code>SOFTWARE&nbsp; ·&nbsp; E-COMMERCE&nbsp; ·&nbsp; WEB3&nbsp; ·&nbsp; COIMBRA, PORTUGAL</code>
 </p>
 
 ---
 
-### What I actually do
+### `01 —` WHAT I DO
 
-Web development and GTM consulting. I build the thing *and* help the owner
-sell it, because shipping is only half the job. Software, e-commerce, Web3.
-AI-assisted, spec-first, deployed on day one.
+I build software and launch it. One person, brief to live URL, usually in
+days. Web development on one side, go-to-market on the other, because a
+product nobody can find is only half finished.
 
-- 🚀 **Speed as a feature** — prototype to production in days
-- 🧱 **Full stack** — TypeScript, React, Node, Postgres, Railway
-- ⛓️ **Web3** — dapps, contracts, on-chain products
-- 📈 **GTM** — launch, automate, grow
+My clients are business owners, not engineers. So I keep the explaining
+short and the shipping fast.
 
-### Things I'm building
+---
 
-| Project | What it is |
+### `02 —` HOW I WORK
+
+`SPEC FIRST` &nbsp; Every project starts as a written spec. Design systems,
+context files, handover docs. The plan exists before the code does.
+
+`AI ASSISTED` &nbop; I use AI tooling hard, which is why a solo
+consultancy can move at the pace of a small team.
+
+`DEPLOYED DAY ONE` &nbsp; Nothing sits on a branch waiting for a launch
+date. It goes to a live URL immediately, then improves in the open.
+
+---
+
+### `03 —` WHAT I AM BUILDING
+
+| Project | What it does |
 | --- | --- |
-| [customermates](https://github.com/pmcostadev/customermates) | A Pipedrive alternative that's 10x more intuitive |
-| [cal.diy](https://github.com/pmcostadev/cal.diy) | Scheduling infrastructure for absolutely everyone |
-| [social](https://github.com/pmcostadev/social) | 📨 Agentic social media scheduling 🤖 |
-| [openclaw-railway](https://github.com/pmcostadev/openclaw-railway) | One-click Railway deploy template for OpenClaw |
-| [spec-forge](https://github.com/pmcostadev/spec-forge) | Turning specs into shipped software |
+| [customermates](https://github.com/pmcostadev/customermates) | A CRM alternative to Pipedrive, built to be simpler to use |
+| [cal.diy](https://github.com/pmcostadev/cal.diy) | Scheduling infrastructure, open to anyone |
+| [social](https://github.com/pmcostadev/social) | Social media scheduling that runs itself |
+| [openclaw-railway](https://github.com/pmcostadev/openclaw-railway) | One-click Railway template for deploying OpenClaw |
+| [spec-forge](https://github.com/pmcostadev/spec-forge) | Turning written specs into working software |
 
-Plus a few still in the oven.
+---
 
-### Stack
+### `04 —` STACK
 
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react)
-![TanStack](https://img.shields.io/badge/TanStack-000?style=flat-square&logo=reactquery)
-![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss)
-![Postgres](https://img.shields.io/badge/Postgres-000?style=flat-square&logo=postgresql)
-![Railway](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway)
-![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-121011?style=flat-square&labelColor=121011&color=121011)
+![React](https://img.shields.io/badge/REACT-121011?style=flat-square&labelColor=121011&color=121011)
+![TanStack](https://img.shields.io/badge/TANSTACK-121011?style=flat-square&labelColor=121011&color=121011)
+![Bun](https://img.shields.io/badge/BUN-121011?style=flat-square&labelColor=121011&color=121011)
+![Tailwind](https://img.shields.io/badge/TAILWIND-121011?style=flat-square&labelColor=121011&color=121011)
+![Postgres](https://img.shields.io/badge/POSTGRES-121011?style=flat-square&labelColor=121011&color=121011)
+![Railway](https://img.shields.io/badge/RAILWAY-121011?style=flat-square&labelColor=121011&color=121011)
+![Solidity](https://img.shields.io/badge/SOLIDITY-121011?style=flat-square&labelColor=121011&color=121011)
 
-### Work with me
+---
 
-Got something that needs to exist by next week? → **[pmcosta.dev](https://pmcosta.dev)**
+### `05 —` START A PROJECT
+
+Tell me what needs to exist and when. If I can build it, I will say so
+that day.
+
+**[Send the brief](https://pmcosta.dev)**
