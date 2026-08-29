@@ -26,7 +26,7 @@ short and the shipping fast.
 `SPEC FIRST` &nbsp; Every project starts as a written spec. Design systems,
 context files, handover docs. The plan exists before the code does.
 
-`AI ASSISTED` &nbop; I use AI tooling hard, which is why a solo
+`AI ASSISTED` &nbsp; I use AI tooling hard, which is why a solo
 consultancy can move at the pace of a small team.
 
 `DEPLOYED DAY ONE` &nbsp; Nothing sits on a branch waiting for a launch
