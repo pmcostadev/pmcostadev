@@ -50,7 +50,7 @@ in hours, launches in days.
 <table>
 <tr>
 <td width="50%">
-  <a href="https://pmcosta.dev/services/design"><img src="https://pmcosta.dev/__l5e/assets-v1/5d720c48-98d7-49ea-ab85-52cef43de1bf/prototyping.jpg" alt="UI/UX Design"></a>
+  <a href="https://pmcosta.dev/services/design"><img src="https://pmcosta.dev/__l5e/assets-v1/6f826c18-dee3-4110-b4c0-e3584c422dc6/legacy-ui.jpg" alt="UI/UX Design"></a>
   <br><br>
   <strong><a href="https://pmcosta.dev/services/design">UI/UX DESIGN</a></strong><br>
   Clickable, high-fidelity mockups and modern interfaces you can review and approve before a single line of code is written.
