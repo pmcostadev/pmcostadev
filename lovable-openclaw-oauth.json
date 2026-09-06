@@ -1,4 +1,5 @@
 {
+  "client_id": "https://pmcostadev.github.io/pmcostadev/lovable-openclaw-oauth.json",
   "client_name": "OpenClaw MCP",
   "client_uri": "https://agent.pmcosta.dev",
   "redirect_uris": [
