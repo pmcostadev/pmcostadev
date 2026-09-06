@@ -1,7 +1,7 @@
 {
   "client_id": "https://pmcostadev.github.io/pmcostadev/lovable-openclaw-oauth.json",
   "client_name": "OpenClaw MCP",
-  "client_uri": "https://agent.pmcosta.dev",
+  "application_type": "web",
   "redirect_uris": [
     "https://pmcostadev.github.io/pmcostadev/lovable-openclaw-callback.html"
   ],
@@ -12,6 +12,5 @@
   "response_types": [
     "code"
   ],
-  "token_endpoint_auth_method": "none",
-  "scope": "offline projects:read projects:write workspaces:read workspaces:write"
+  "token_endpoint_auth_method": "none"
 }
