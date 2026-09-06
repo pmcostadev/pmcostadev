@@ -3,7 +3,7 @@
   "client_name": "OpenClaw MCP",
   "client_uri": "https://agent.pmcosta.dev",
   "redirect_uris": [
-    "https://agent.pmcosta.dev/oauth/mcp/callback"
+    "https://pmcostadev.github.io/pmcostadev/lovable-openclaw-callback.html"
   ],
   "grant_types": [
     "authorization_code",
